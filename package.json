@@ -1,8 +1,1 @@
-{
-  "name": "DoBetterAgent",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'Basic build placeholder'"
-  },
-  "dependencies": {}
-}
+{"name": "DoBetterAgent","version": "1.0.0","scripts": {"build": "remix build"},"devDependencies": {"@remix-run/dev": "2.3.1"}}
