@@ -1,1 +1,1 @@
-{"scripts":{"build":"remix vite:build"},"devDependencies":{"remix":"^1.27.0"}}
+{"name":"DoBetterAgent","version":"1.0.0","scripts":{"build":"remix build"},"devDependencies":{"remix":"2.3.1"}}
